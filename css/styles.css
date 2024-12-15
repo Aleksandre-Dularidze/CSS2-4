@@ -1,0 +1,226 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.fillerBox {
+	width: 100%;
+	height: 156px;
+}
+
+header {
+	max-width: 1400px;
+	width: 100%;
+	height: 674px;
+	margin: 0 auto;
+	border-radius: 33px;
+}
+
+.imageBox {
+	max-width: 1400px;
+	width: 100%;
+	height: 674px;
+	background-image: url('../images/image.svg')
+}
+
+.pBox {
+	max-width: 1258px;
+	width: 100%;
+	height: 159px;
+	margin: 0 auto;
+	text-align: center;
+	
+}
+
+.pBox p {
+	font-size: 44px;
+	color: #fff;
+	padding-top: 39px;
+}
+
+.fillerDiv {
+	width: 100%;
+	height: 115px;
+}
+
+.contentOne {
+	max-width: 1137px;
+	width: 100%;
+	height: 350px;
+	margin: 0 auto;
+	padding: 40px 32px;
+	background-color: #EBF8FE;
+	border-radius: 24px;
+}
+
+.beBox {
+	max-width: 971px;
+	width: 100%;
+	height: 60px;
+	margin: 0 auto;
+	margin-bottom: 24px;
+}
+
+.beBox p {
+	font-size: 64px;
+	line-height: 60px;
+	color: #181D27;
+	text-align: center;
+}
+
+.weBox {
+	max-width: 1073px;
+	width: 100%;
+	height: 80px;
+	margin: 0 auto;
+	margin-bottom: 24px;
+}
+
+.weBox p {
+	font-size: 32px;
+	color: #535862;
+	line-height: 44px;
+	text-align: left;
+}
+
+.formBox {
+	max-width: 488px;
+	width: 100%;
+	height: 74px;
+	margin: 0 auto;
+}
+
+.emailBox {
+	max-width: 345px;
+	width: 100%;
+	height: 48px;
+	display: inline-block;
+	margin-bottom: 8px;
+	display: inline-block;
+}
+
+.emailBox input {
+	max-width: 345px;
+	width: 100%;
+	height: 48px;
+	padding: 12px 14px;
+	border-radius: 8px;
+	border: 1px solid #D5D7DA;
+	color: #717680;
+	vertical-align: middle;
+}
+
+.labelText {
+	color: #535862;
+	font-size: 14px;
+}
+.labelDiv {
+	max-width: 345px;
+	width: 100%;
+	height: 20px;
+	display: inline-block;
+}
+
+.labelText span {
+	border-bottom: 1px solid #535862;
+	
+}
+
+.buttonBox {
+	max-width: 119px;
+	width: 100%;
+	height: 48px;
+	display: inline-block;
+	text-align: center;
+}
+
+.buttonBox input {
+	padding: 12px 18px;
+	font-size: 16px;
+	vertical-align: middle;
+	color: #fff;
+	border-radius: 8px;
+	border: 2px solid #007CB8;
+	background-color: #007CB8;
+}
+
+.fillerContent {
+	width: 100%;
+	height: 72px;
+}
+
+.submitForm {
+	max-width: 546px;
+	width: 100%;
+	height: 638px;
+	background-color: #EBF8FE;
+	margin: 0 auto;
+	padding: 40px 32px;
+	border-radius: 24px;
+}
+
+.formText {
+	max-width: 216px;
+	width: 100%;
+	height: 60px;
+	line-height: 60px;
+	margin: 0 auto;
+	margin-left: 0;
+	margin-bottom: 24px;
+}
+
+.formText p {
+	font-size: 40px;
+	color: #181D27;
+}
+
+.labelName {
+	max-width: 482px;
+	width: 100%;
+	height: 18px;
+	margin-bottom: 8px;
+}
+
+.labelName label {
+	color: #1B003D;
+	font-size: 14px;
+	line-height: 18px;
+}
+
+.inputName {
+	max-width: 482px;
+	width: 100%;
+	height: 48px;
+	margin-bottom: 24px;
+}
+
+.inputName input {
+	max-width: 482px;
+	width: 100%;
+	height: 48px;
+	padding: 8px 16px;
+	font-size: 14px;
+	color: #6D5F8B;
+	line-height: 22px;
+	border-radius: 8px;
+	border: 1px solid #380054;
+}
+
+.labelP {
+	font-size: 14px;
+	color: #1B003D;
+	line-height: 50px;
+}
+
+.dropYes {
+	display: inline-block;
+	width: 100px;
+	height: 30px;
+	width: 100%;
+}
+
+.fillerClass {
+	width:100%;
+	height: 99px;
+}
